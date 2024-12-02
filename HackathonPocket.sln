@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackathonPocket", "HackathonPocket\HackathonPocket.csproj", "{150BDFBD-D383-45E3-97AB-F495F6854F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150BDFBD-D383-45E3-97AB-F495F6854F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150BDFBD-D383-45E3-97AB-F495F6854F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150BDFBD-D383-45E3-97AB-F495F6854F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150BDFBD-D383-45E3-97AB-F495F6854F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8045CFB2-1462-40D0-A5C2-463A63460A5A}
+	EndGlobalSection
+EndGlobal
